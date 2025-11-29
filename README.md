@@ -1,1 +1,3 @@
-# File-Organizer-C
+# File Organizer Tool
+
+... (content omitted for brevity in code generation) ...
